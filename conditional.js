@@ -14,7 +14,18 @@ var myBudget = 9500;
     // console.log('iphn kinbo')
 // }
 
-myBudget = 95000;
+myBudget = 9500;
 if (iphonePrice < myBudget){
     console.log('iphn kinbo')
+}
+
+
+/**
+ * if iphone price is less than my budget, I will buy
+ * or else i will buy games
+ * 
+ * **/ 
+else{
+    console.log('i will buy games')
+
 }
