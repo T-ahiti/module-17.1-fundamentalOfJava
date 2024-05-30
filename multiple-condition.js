@@ -1,6 +1,7 @@
 // ekta = sign mane ami value declare kortesi, ==/=== double/triple means ask kortesi(comparison), if*
 var isGratuated = true;
-var salary =25000
+var salary =25000;
+var cars = 0;
 
 // if(isGratuated == true){
     // console.log('esho biye kore feli')
@@ -16,7 +17,7 @@ var salary =25000
     // console.log('tor kopale biye nai')
 // }
 
-if(isGratuated == true && salary > 50000){
+if(isGratuated == true && salary > 50000  && cars >= 1){
     console.log('esho biye kore feli')
 }
 else {
